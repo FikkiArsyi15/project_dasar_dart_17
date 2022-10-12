@@ -37,5 +37,5 @@ main() {
 
   print("Nama: ${kry.getName()}");
   print("Alamat: ${kry.getAddress()}");
-  print("pembayar: ${kry.getpembayaran()}");
+  print("pembayar RP: ${kry.getpembayaran()}");
 }
